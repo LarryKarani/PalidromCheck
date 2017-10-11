@@ -1,0 +1,1 @@
+This is an alogarithim that checks whether a string still remains the same when it is reversed
